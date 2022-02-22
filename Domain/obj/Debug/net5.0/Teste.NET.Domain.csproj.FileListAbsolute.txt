@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Teste.NET\Domain\bin\Debug\net5.0\Teste.NET.Domain.deps.json
+C:\Users\Thiago\Desktop\Teste.NET\Domain\bin\Debug\net5.0\Teste.NET.Domain.dll
+C:\Users\Thiago\Desktop\Teste.NET\Domain\bin\Debug\net5.0\ref\Teste.NET.Domain.dll
+C:\Users\Thiago\Desktop\Teste.NET\Domain\bin\Debug\net5.0\Teste.NET.Domain.pdb
+C:\Users\Thiago\Desktop\Teste.NET\Domain\obj\Debug\net5.0\Teste.NET.Domain.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Teste.NET\Domain\obj\Debug\net5.0\Teste.NET.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Teste.NET\Domain\obj\Debug\net5.0\Teste.NET.Domain.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Teste.NET\Domain\obj\Debug\net5.0\Teste.NET.Domain.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Teste.NET\Domain\obj\Debug\net5.0\Teste.NET.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Teste.NET\Domain\obj\Debug\net5.0\Teste.NET.Domain.dll
+C:\Users\Thiago\Desktop\Teste.NET\Domain\obj\Debug\net5.0\ref\Teste.NET.Domain.dll
+C:\Users\Thiago\Desktop\Teste.NET\Domain\obj\Debug\net5.0\Teste.NET.Domain.pdb
+C:\Users\Thiago\Desktop\Teste.NET\Domain\bin\Debug\net5.0\Teste.NET.Domain.runtimeconfig.json
+C:\Users\Thiago\Desktop\Teste.NET\Domain\bin\Debug\net5.0\Teste.NET.Domain.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\Teste.NET\Domain\obj\Debug\net5.0\Teste.NET.Domain.genruntimeconfig.cache

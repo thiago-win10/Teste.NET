@@ -1,0 +1,17 @@
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\bin\Debug\net5.0\CamadaServices.deps.json
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\bin\Debug\net5.0\CamadaServices.dll
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\bin\Debug\net5.0\ref\CamadaServices.dll
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\bin\Debug\net5.0\CamadaServices.pdb
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\bin\Debug\net5.0\Domain.dll
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\bin\Debug\net5.0\PadraoRepository.dll
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\bin\Debug\net5.0\Domain.pdb
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\bin\Debug\net5.0\PadraoRepository.pdb
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\obj\Debug\net5.0\CamadaServices.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\obj\Debug\net5.0\CamadaServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\obj\Debug\net5.0\CamadaServices.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\obj\Debug\net5.0\CamadaServices.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\obj\Debug\net5.0\CamadaServices.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\obj\Debug\net5.0\CamadaServices.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\obj\Debug\net5.0\CamadaServices.dll
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\obj\Debug\net5.0\ref\CamadaServices.dll
+C:\Users\Thiago\Desktop\Teste.NET\CamadaServices\obj\Debug\net5.0\CamadaServices.pdb

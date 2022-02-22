@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\bin\Debug\net5.0\Teste.NET.PadraoRepository.deps.json
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\bin\Debug\net5.0\Teste.NET.PadraoRepository.dll
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\bin\Debug\net5.0\ref\Teste.NET.PadraoRepository.dll
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\bin\Debug\net5.0\Teste.NET.PadraoRepository.pdb
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\obj\Debug\net5.0\Teste.NET.PadraoRepository.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\obj\Debug\net5.0\Teste.NET.PadraoRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\obj\Debug\net5.0\Teste.NET.PadraoRepository.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\obj\Debug\net5.0\Teste.NET.PadraoRepository.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\obj\Debug\net5.0\Teste.NET.PadraoRepository.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\obj\Debug\net5.0\Teste.NET.PadraoRepository.dll
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\obj\Debug\net5.0\ref\Teste.NET.PadraoRepository.dll
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\obj\Debug\net5.0\Teste.NET.PadraoRepository.pdb
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\bin\Debug\net5.0\Teste.NET.Domain.dll
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\bin\Debug\net5.0\Teste.NET.Domain.pdb
+C:\Users\Thiago\Desktop\Teste.NET\PadraoRepository\obj\Debug\net5.0\Teste.NET.PadraoRepository.csproj.CopyComplete
